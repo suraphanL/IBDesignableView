@@ -14,6 +14,7 @@
 		3CC292AF1D58E66400B803C7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3CC292AD1D58E66400B803C7 /* LaunchScreen.storyboard */; };
 		3CC292BA1D58E66400B803C7 /* IBDesignableViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CC292B91D58E66400B803C7 /* IBDesignableViewTests.swift */; };
 		3CC292C51D58E66400B803C7 /* IBDesignableViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CC292C41D58E66400B803C7 /* IBDesignableViewUITests.swift */; };
+		3CC292D31D58E69100B803C7 /* IBDesignableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3CC292D21D58E69100B803C7 /* IBDesignableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		3CC292C01D58E66400B803C7 /* IBDesignableViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = IBDesignableViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3CC292C41D58E66400B803C7 /* IBDesignableViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = IBDesignableViewUITests.swift; sourceTree = "<group>"; };
 		3CC292C61D58E66400B803C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3CC292D21D58E69100B803C7 /* IBDesignableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IBDesignableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				3CC292AB1D58E66400B803C7 /* Assets.xcassets */,
 				3CC292AD1D58E66400B803C7 /* LaunchScreen.storyboard */,
 				3CC292B01D58E66400B803C7 /* Info.plist */,
+				3CC292D21D58E69100B803C7 /* IBDesignableView.swift */,
 			);
 			path = IBDesignableView;
 			sourceTree = "<group>";
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3CC292A71D58E66400B803C7 /* ViewController.swift in Sources */,
+				3CC292D31D58E69100B803C7 /* IBDesignableView.swift in Sources */,
 				3CC292A51D58E66400B803C7 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
